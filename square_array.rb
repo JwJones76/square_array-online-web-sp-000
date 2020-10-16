@@ -1,3 +1,5 @@
 def square_array(array)
-  # your code here
+  array = [9, 10, 16, 25]+
+  
+  
 end
